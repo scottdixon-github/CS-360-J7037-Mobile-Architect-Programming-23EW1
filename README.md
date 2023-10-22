@@ -9,7 +9,7 @@ User-centered UI design was at the forefront of my approach. I aimed to keep the
 
 My approach to coding was systematic and structured, although quite slow. I followed best practices for Android app development, using structured code architecture to maintain a clean and modular codebase. I incorporated version control to manage code changes effectively. These techniques are invaluable for future projects as they ensure code maintainability and scalability. 
 
-Testing was an integral part of the development process. I performed Junit tests, UI tests, and functionality tests to ensure the code was robust and free of critical errors. This process is crucial because it helps identify and rectify issues early in the development cycle, resulting in a more reliable app. 
+Testing was an integral part of the development process. I performed JUnit tests, UI tests, and functionality tests to ensure the code was robust and free of critical errors. This process is crucial because it helps identify and rectify issues early in the development cycle, resulting in a more reliable app. 
 
 During the app's development journey, I was required to overcome challenges related to database management and SMS notification integration. I had to devise creative solutions to ensure efficient data handling and reliable notifications while maintaining data privacy and security. 
 
